@@ -2,12 +2,11 @@
 
 Welcome to the source code for my personal portfolio website. This project was built from the ground up not just as a portfolio, but as a comprehensive showcase of modern full-stack development.
 
-(https://punith-br.vercel.app/)
 
 <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/9bf7b102-62a3-414f-b08b-f68c048f9eeb" />
 
 
-**Live Demo:** [**punith-br.vercel.app**](https://punith-br.vercel.app/)
+**Live Demo:** [**punith-br.vercel.app**](https://punith-me.vercel.app/)
 
 ---
 
