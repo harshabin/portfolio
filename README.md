@@ -1,4 +1,4 @@
-# Punith BR - Personal Portfolio 
+# Harsha Vardhan.n - Personal Portfolio 
 
 Welcome to the source code for my personal portfolio website. This project was built from the ground up not just as a portfolio, but as a comprehensive showcase of modern full-stack development.
 
