@@ -6,7 +6,7 @@ Welcome to the source code for my personal portfolio website. This project was b
 <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/9bf7b102-62a3-414f-b08b-f68c048f9eeb" />
 
 
-**Live Demo:** [**punith-br.vercel.app**](https://portfolio-fr39.vercel.app/)
+**Live Demo:** [**harsha's.vercel.app**](https://portfolio-fr39.vercel.app/)
 
 ---
 
