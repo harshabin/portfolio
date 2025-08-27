@@ -14,8 +14,8 @@ const Contact = () => {
           <p>Feel free to reach out if you want to collaborate on a project, have a job opportunity, or just want to say hi!</p>
           
           <ul className="contact__list">
-            <li><i className="fa-regular fa-envelope"></i> punithawesome123@gmail.com</li>
-            <li><i className="fa-solid fa-phone"></i> +91 63615 91618</li>
+            <li><i className="fa-regular fa-envelope"></i> Harshabindu494@gmail.com</li>
+            <li><i className="fa-solid fa-phone"></i> +91 76764 61832</li>
             <li><i className="fa-solid fa-location-dot"></i> Bengaluru, India</li>
           </ul>
         </div>

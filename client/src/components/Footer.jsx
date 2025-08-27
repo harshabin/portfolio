@@ -9,13 +9,13 @@ const Footer = () => {
           <ul className="footer__links"> 
             <li><a href="#about">About</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="Punith.BR_Resume.pdf" download="Punith_BR_Resume.pdf">Resume</a></li>
+            <li><a href="resumewordcmrit.pdf" download="resumewordcmrit.pdf">Resume</a></li>
           </ul>
         </div>
         <div className="footer__column">
           <h4>Connect</h4>
           <div className="footer__socials">
-            <a href="https://github.com/punithbr27" target="_blank" rel="noopener noreferrer" className="footer__social-link">
+            <a href="https://github.com/harshabin" target="_blank" rel="noopener noreferrer" className="footer__social-link">
               <i className="fa-brands fa-github"></i>
             </a>
             <a href="https://www.linkedin.com/in/punith-br/" target="_blank" rel="noopener noreferrer" className="footer__social-link">

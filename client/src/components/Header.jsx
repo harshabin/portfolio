@@ -23,7 +23,7 @@ const Header = () => {
 
         {/* Desktop Socials */}
         <div className="nav__socials_desktop">
-            <a href="https://github.com/punithbr27" target="_blank" rel="noopener noreferrer" className="nav__social-link"><i className="fa-brands fa-github"></i></a>
+            <a href="https://github.com/harshabin" target="_blank" rel="noopener noreferrer" className="nav__social-link"><i className="fa-brands fa-github"></i></a>
             <a href="https://www.linkedin.com/in/punith-br/" target="_blank" rel="noopener noreferrer" className="nav__social-link"><i className="fa-brands fa-linkedin"></i></a>
         </div>
         

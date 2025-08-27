@@ -3,19 +3,19 @@ import React, { useState } from 'react';
 const educationData = [
   {
     id: 1,
-    institution: 'PES University (RR Campus), Bengaluru',
-    date: '2024 - Present',
-    details: 'B.Tech in Computer Science and Engg',
-    cgpa: '8.25',
+    institution: 'CMR institute of technology, Bengaluru',
+    date: '2024 - Persuing',
+    details: 'B.Tech in Information Science and Engg',
+    cgpa: '6.85',
     achievements: 'Qualified for CIE Ignite Stage 2',
   },
   {
     id: 2,
-    institution: 'Sri Jayachamarajendra [Govt.] Polytechnic',
+    institution: 'Siddaganga Polytechnic',
     date: '2021 - 2024',
     details: 'Diploma in Computer Science',
-    cgpa: '9.83',
-    achievements: ['2x Runners in Cricket Tournament @SJP   ', '    DCET Rank : 24']
+    cgpa: '8.93',
+    achievements: ['2x Runners in volleyball Tournament @spt   ', '    DCET Rank : 2774']
 
   },
   {
@@ -23,7 +23,7 @@ const educationData = [
     institution: 'St. Lawrence High School, Bengaluru',
     date: '2009 - 2021',
     details: 'SSLC (State board)',
-    score: '94.88% (COVID 19 Batch)',
+    score: '67.88% (COVID 19 Batch)',
     achievements: '',
   },
 ];
