@@ -3,7 +3,7 @@
 Welcome to the source code for my personal portfolio website. This project was built from the ground up not just as a portfolio, but as a comprehensive showcase of modern full-stack development.
 
 
-<img width="1920" height="925" alt="image" src="<img width="1348" height="642" alt="Screenshot 2025-08-27 143352" src="https://github.com/user-attachments/assets/3cffe2d0-4d8a-4697-931b-92bd21bf432b" />
+<img width="1348" height="642" alt="Screenshot 2025-08-27 143352" src="https://github.com/user-attachments/assets/3cffe2d0-4d8a-4697-931b-92bd21bf432b" />
 " />
 
 
