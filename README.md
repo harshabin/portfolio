@@ -105,4 +105,4 @@ You will need to run both the frontend and backend servers concurrently in separ
 
 ## 📞 Contact
 
-Punith BR - [@LinkedIn](https://www.linkedin.com/in/punith-br/) - punithawesome123@gmail.com
+HARSHA VARDHAN.N- [@LinkedIn](https://www.linkedin.com/in/harshavardhan/) - harshabindu494@gmail.com
